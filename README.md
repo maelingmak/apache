@@ -10,7 +10,7 @@ TODO (05/31/2018):
 5. Create sqlite DB of access log csvs and JSON API calls
 6. Do calculations
 	a. How many hits?<br>
-`	b. How many unique IPs<br>
+	b. How many unique IPs<br>
 	c. How many 404, 405, 200?<br>
 	d. Most requested URL & corresponding response code<br>
 		i. Is there any country coorelation to this<br>
