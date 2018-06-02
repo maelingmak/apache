@@ -3,7 +3,8 @@ Analysis of Apache Access Logs, April 2018
 
 TODO (05/31/2018):
 
-1. Concat csvs into one csv
+1. Concat csvs into one csv - Done 06/02/2018
+	a. Need to drop all 127.0.0.1 dummy connections
 2. Get JSON file back out of list
 3. Convert csv to DF
 4. Convert JSON file to DF and drop useless columns
