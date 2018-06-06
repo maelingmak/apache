@@ -4,12 +4,14 @@ Analysis of Apache Access Logs, April 2018
 TODO (05/31/2018):
 
 1. Concat csvs into one csv - Done 06/02/2018<br>
-	a. Need to drop all 127.0.0.1 dummy connections
+	a. Need to drop all 127.0.0.1 dummy connections<br>
+		REDONE 06/05/2018
 2. Get JSON file back out of list
-3. Convert csv to DF
+3. Convert csv to DF<br>
+	DONE 06/05/2018
 4. Convert JSON file to DF and drop useless columns
 5. Create sqlite DB of access log csvs and JSON API calls
-6. Do calculations
+6. Do calculations - This can be done in Jupyter for exploratory reasons, but should also be added as app routes for visualizations later if they are interesting.
 	a. How many hits?<br>
 	b. How many unique IPs<br>
 	c. How many 404, 405, 200?<br>
