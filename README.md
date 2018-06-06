@@ -14,7 +14,7 @@ TODO (05/31/2018):
 6. Do calculations - This can be done in Jupyter for exploratory reasons, but should also be added as app routes for visualizations later if they are interesting.
 	a. How many hits?<br>
 	b. How many unique IPs<br>
-	c. How many 404, 405, 200?<br>
+	c. How many 404, 403, 200?<br>
 	d. Most requested URL & corresponding response code<br>
 		i. Is there any country coorelation to this<br>
 	e. Most common browser/OS<br>
@@ -31,6 +31,8 @@ TODO (05/31/2018):
 		i. Is there a country/OS/browser correlation to this?<br>
 	i How many bots try to push info & how many try to get info?<br>
 		i This tells us which kid of bot it is<br>
+We have to do the above from a database so that we can combine the searches (URL + Response code + country), since they will be in 2 different tables.<br>
+
 7. Visualizations
 	a. Donut chart of most common URL requests<br>
 	b. Pie chart of host response codes<br>
