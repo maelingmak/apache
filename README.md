@@ -8,7 +8,7 @@ mail servers that were set up to host mail, DNS, and IRC before the advent
 of modern social media, free email, texting, chat, and other hosting 
 services, such as photo and web hosting.</p>
 
-<p>Though few people still host their own vanity servers, may homes have
+<p>Though few people still host their own vanity servers, many homes have
 NAS servers (Network Access Storage) for photos, videos, music, and other
 media. These are purchased pre-packaged, and can have an ftp and web
 interface. These can be vunerable to the same kinds of attacks.</p>
@@ -26,6 +26,7 @@ interface with mySQL handling the data on the back end. Through both PHP
 and mySQL, there are several different security holes. The most common is
 that users do not change the default mySQL password. Second to that is 
 SQL injection.
+
 <p>In this project, we will attempt to examine which security flaws people
 are trying to exploit by analyzing the requests received through access.log.
 To do this, we will attempt to identify bots by the timing of the requests
