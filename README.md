@@ -25,7 +25,7 @@ around 2000. The most recent software was handled through a PHP web
 interface with mySQL handling the data on the back end. Through both PHP
 and mySQL, there are several different security holes. The most common is
 that users do not change the default mySQL password. Second to that is 
-SQL injection.
+SQL injection.<br>
 
 <p>In this project, we will attempt to examine which security flaws people
 are trying to exploit by analyzing the requests received through access.log.
@@ -72,7 +72,7 @@ for a URL that still contains content.</p>
 
 <h3>A Note on Spiders</h3>
 <p>While spiders are bots, these requests are legitimate, and can will be
-easily analyzed by the request for robot.txt or will identify themselves in
+easily analyzed by the request for robots.txt or will identify themselves in
 the user agent. As a footnote, these could be included in the same pie
 chart as the legitimate requests. We should represent the legitimate 
 requests not as the URL requested or the referer URL, but simply count
