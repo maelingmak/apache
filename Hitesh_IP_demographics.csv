@@ -1,0 +1,165 @@
+city,continent_code,continent_name,country_code,country_name,ip,latitude,location_capital,longitude,region_code,region_name,type,zip
+Priolo Gargallo,EU,Europe,IT,Italy,62.170.2.205,37.15,Rome,15.1833,82,Sicily,ipv4,96010
+Brooklyn,NA,North America,US,United States,108.41.39.187,40.5833,Washington D.C.,-73.924,NY,New York,ipv4,11235
+Seattle,NA,North America,US,United States,216.244.66.194,47.4891,Washington D.C.,-122.2908,WA,Washington,ipv4,98168
+Clifton,NA,North America,US,United States,45.55.165.242,40.8326,Washington D.C.,-74.1307,NJ,New Jersey,ipv4,07014
+Guangzhou,AS,Asia,CN,China,113.96.223.207,23.1167,Beijing,113.25,GD,Guangdong,ipv4,""
+Chicago,NA,North America,US,United States,208.100.26.232,41.8745,Washington D.C.,-87.6503,IL,Illinois,ipv4,60607
+Redmond,NA,North America,US,United States,157.55.39.0,47.6801,Washington D.C.,-122.1206,WA,Washington,ipv4,98052
+Tampa,NA,North America,US,United States,66.111.41.253,27.8867,Washington D.C.,-82.5117,FL,Florida,ipv4,33611
+Edison,NA,North America,US,United States,196.52.43.122,40.5186,Washington D.C.,-74.3499,NJ,New Jersey,ipv4,08837
+"",AS,Asia,HK,Hong Kong,210.209.87.83,22.25,City of Victoria,114.1667,"","",ipv4,""
+Ashburn,NA,North America,US,United States,54.157.61.58,39.0853,Washington D.C.,-77.6452,VA,Virginia,ipv4,20149
+Ashburn,NA,North America,US,United States,52.87.86.158,39.0853,Washington D.C.,-77.6452,VA,Virginia,ipv4,20149
+Ashburn,NA,North America,US,United States,35.172.194.39,39.0853,Washington D.C.,-77.6452,VA,Virginia,ipv4,20149
+"",EU,Europe,SE,Sweden,178.73.215.171,59.3247,Stockholm,18.056,"","",ipv4,""
+Cheyenne,NA,North America,US,United States,107.182.247.178,41.1034,Washington D.C.,-104.9059,WY,Wyoming,ipv4,82001
+"",AS,Asia,KG,Kyrgyzstan,77.95.57.248,41,Bishkek,75,"","",ipv4,""
+Mountain View,NA,North America,US,United States,66.249.64.143,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+Montreal,NA,North America,CA,Canada,142.44.159.96,45.504,Ottawa,-73.5747,QC,Quebec,ipv4,H3A
+Anse aux Pins,AF,Africa,SC,Seychelles,80.82.70.118,-4.7034,Victoria,55.5206,01,Anse-aux-Pins,ipv4,""
+Viña del Mar,SA,South America,CL,Chile,190.46.9.59,-33.0081,Santiago,-71.5197,VS,Region de Valparaiso,ipv4,""
+"",NA,North America,US,United States,169.54.233.117,37.751,Washington D.C.,-97.822,"","",ipv4,""
+Columbus,NA,North America,US,United States,52.15.97.139,39.9653,Washington D.C.,-83.0235,OH,Ohio,ipv4,43215
+"",AF,Africa,SC,Seychelles,94.102.49.193,-4.5833,Victoria,55.6667,"","",ipv4,""
+Austin,NA,North America,US,United States,128.62.160.14,30.2961,Washington D.C.,-97.7369,TX,Texas,ipv4,78705
+Markham,NA,North America,CA,Canada,158.85.81.126,43.877,Ottawa,-79.2578,ON,Ontario,ipv4,L3P
+Tokyo,AS,Asia,JP,Japan,172.104.108.109,35.685,Tokyo,139.7514,13,Tokyo,ipv4,190-0031
+Mountain View,NA,North America,US,United States,35.189.13.109,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+Manchester,EU,Europe,GB,United Kingdom,84.9.212.47,53.4667,London,-2.1667,ENG,England,ipv4,M18
+"",EU,Europe,RU,Russia,217.69.134.188,55.7386,Moscow,37.6068,"","",ipv4,""
+"",EU,Europe,RU,Russia,217.69.133.4,55.7386,Moscow,37.6068,"","",ipv4,""
+"",EU,Europe,RU,Russia,217.69.133.2,55.7386,Moscow,37.6068,"","",ipv4,""
+Central,AS,Asia,HK,Hong Kong,119.247.135.127,22.2833,City of Victoria,114.15,HCW,Central and Western District,ipv4,""
+San Francisco,NA,North America,US,United States,107.170.226.9,37.7312,Washington D.C.,-122.3826,CA,California,ipv4,94124
+Edison,NA,North America,US,United States,196.52.43.116,40.5186,Washington D.C.,-74.3499,NJ,New Jersey,ipv4,08837
+Hangzhou,AS,Asia,CN,China,139.129.221.52,30.2936,Beijing,120.1614,ZJ,Zhejiang,ipv4,""
+Beijing,AS,Asia,CN,China,220.181.125.186,39.9289,Beijing,116.3883,BJ,Beijing,ipv4,""
+"",EU,Europe,NL,Netherlands,93.180.64.220,52.3824,Amsterdam,4.8995,"","",ipv4,""
+"",EU,Europe,DE,Germany,176.9.117.99,51.2993,Berlin,9.491,"","",ipv4,""
+"",EU,Europe,DE,Germany,5.9.112.6,51.2993,Berlin,9.491,"","",ipv4,""
+San Diego,NA,North America,US,United States,71.6.202.198,32.8073,Washington D.C.,-117.1324,CA,California,ipv4,92123
+Redmond,NA,North America,US,United States,157.55.39.15,47.6801,Washington D.C.,-122.1206,WA,Washington,ipv4,98052
+McCalla,NA,North America,US,United States,23.120.3.17,33.2906,Washington D.C.,-87.0944,AL,Alabama,ipv4,35111
+"",NA,North America,US,United States,50.202.38.5,28.6344,Washington D.C.,-81.6221,FL,Florida,ipv4,""
+"",EU,Europe,DE,Germany,148.251.22.254,51.2993,Berlin,9.491,"","",ipv4,""
+Markham,NA,North America,CA,Canada,158.85.81.125,43.877,Ottawa,-79.2578,ON,Ontario,ipv4,L3P
+St Petersburg,EU,Europe,RU,Russia,31.184.193.154,59.8944,Moscow,30.2642,SPE,St.-Petersburg,ipv4,190826
+Nanjing,AS,Asia,CN,China,61.155.61.149,32.0617,Beijing,118.7778,JS,Jiangsu,ipv4,""
+Beijing,AS,Asia,CN,China,101.254.149.226,39.9289,Beijing,116.3883,BJ,Beijing,ipv4,""
+Kansas City,NA,North America,US,United States,173.208.206.50,39.1068,Washington D.C.,-94.566,MO,Missouri,ipv4,64106
+Tampa,NA,North America,US,United States,66.111.41.250,27.8867,Washington D.C.,-82.5117,FL,Florida,ipv4,33611
+Los Angeles,NA,North America,US,United States,98.143.148.135,34.0438,Washington D.C.,-118.2512,CA,California,ipv4,90014
+Kansas City,NA,North America,US,United States,173.208.200.154,39.1068,Washington D.C.,-94.566,MO,Missouri,ipv4,64106
+Boardman,NA,North America,US,United States,54.187.34.87,45.7788,Washington D.C.,-119.529,OR,Oregon,ipv4,97818
+"",EU,Europe,FR,France,178.255.215.92,48.8582,Paris,2.3387,"","",ipv4,""
+"",EU,Europe,GB,United Kingdom,109.75.172.166,51.4964,London,-0.1224,"","",ipv4,""
+Kopeysk,EU,Europe,RU,Russia,217.115.86.6,55.1172,Moscow,61.6282,CHE,Chelyabinsk,ipv4,456601
+"",EU,Europe,UA,Ukraine,91.200.12.56,50.45,Kyiv,30.5233,"","",ipv4,""
+Mayagüez,NA,North America,PR,Puerto Rico,24.48.238.249,18.2115,San Juan,-67.1026,"","",ipv4,00680
+Jiaxing,AS,Asia,CN,China,220.189.249.99,30.7522,Beijing,120.75,ZJ,Zhejiang,ipv4,""
+Clifton,NA,North America,US,United States,159.65.241.186,40.8326,Washington D.C.,-74.1307,NJ,New Jersey,ipv4,07014
+Boardman,NA,North America,US,United States,34.212.17.2,45.7788,Washington D.C.,-119.529,OR,Oregon,ipv4,97818
+Beijing,AS,Asia,CN,China,123.59.68.172,39.9289,Beijing,116.3883,BJ,Beijing,ipv4,""
+Taipei,AS,Asia,TW,Taiwan,118.163.168.239,25.0478,Taipei,121.5318,TPE,Taipei City,ipv4,""
+Ponzano,EU,Europe,IT,Italy,80.86.156.166,42.7667,Rome,13.7,65,Abruzzo,ipv4,64010
+"",NA,North America,US,United States,168.1.128.77,37.751,Washington D.C.,-97.822,"","",ipv4,""
+Toronto,NA,North America,CA,Canada,159.89.114.113,43.6555,Ottawa,-79.3626,ON,Ontario,ipv4,M5A
+St Petersburg,EU,Europe,RU,Russia,5.188.87.14,59.8944,Moscow,30.2642,SPE,St.-Petersburg,ipv4,190826
+Beijing,AS,Asia,CN,China,220.181.124.77,39.9289,Beijing,116.3883,BJ,Beijing,ipv4,""
+Montreal,NA,North America,CA,Canada,192.99.149.144,45.504,Ottawa,-73.5747,QC,Quebec,ipv4,H3A
+"",EU,Europe,FI,Finland,95.216.20.16,60.1708,Helsinki,24.9375,"","",ipv4,""
+Nanjing,AS,Asia,CN,China,222.186.50.75,32.0617,Beijing,118.7778,JS,Jiangsu,ipv4,""
+"",NA,North America,US,United States,35.202.181.29,38.6582,Washington D.C.,-77.2497,VA,Virginia,ipv4,""
+Shaoxing,AS,Asia,CN,China,115.231.218.99,30.011,Beijing,120.5715,ZJ,Zhejiang,ipv4,""
+Ashburn,NA,North America,US,United States,54.208.68.208,39.0853,Washington D.C.,-77.6452,VA,Virginia,ipv4,20149
+Baotou,AS,Asia,CN,China,222.74.34.5,40.6522,Beijing,109.8222,NM,Inner Mongolia Autonomous Region,ipv4,""
+Balingen,EU,Europe,DE,Germany,138.201.59.34,48.2753,Berlin,8.8546,BW,Baden-Württemberg Region,ipv4,72336
+Wayne,NA,North America,US,United States,74.208.182.37,40.0548,Washington D.C.,-75.4083,PA,Pennsylvania,ipv4,19087
+"",EU,Europe,NL,Netherlands,185.207.205.93,52.3824,Amsterdam,4.8995,"","",ipv4,""
+Ashburn,NA,North America,US,United States,46.229.164.99,39.018,Washington D.C.,-77.539,VA,Virginia,ipv4,20147
+Beijing,AS,Asia,CN,China,59.108.76.18,39.9289,Beijing,116.3883,BJ,Beijing,ipv4,""
+Redmond,NA,North America,US,United States,157.55.39.27,47.6801,Washington D.C.,-122.1206,WA,Washington,ipv4,98052
+Nuremberg,EU,Europe,DE,Germany,88.198.54.49,49.4478,Berlin,11.0683,BY,Bavaria,ipv4,90409
+"",EU,Europe,RU,Russia,217.69.143.217,55.7386,Moscow,37.6068,"","",ipv4,""
+"",EU,Europe,NL,Netherlands,46.243.189.99,52.3824,Amsterdam,4.8995,"","",ipv4,""
+San Jose,NA,North America,US,United States,54.67.122.35,37.3394,Washington D.C.,-121.895,CA,California,ipv4,95141
+San Francisco,NA,North America,US,United States,107.170.209.132,37.7312,Washington D.C.,-122.3826,CA,California,ipv4,94124
+Osaka,AS,Asia,JP,Japan,114.147.72.16,34.6864,Tokyo,135.52,27,Osaka,ipv4,543-0062
+Ashburn,NA,North America,US,United States,46.229.164.102,39.018,Washington D.C.,-77.539,VA,Virginia,ipv4,20147
+Shanghai,AS,Asia,CN,China,27.115.124.66,31.0456,Beijing,121.3997,SH,Shanghai,ipv4,""
+Clifton,NA,North America,US,United States,104.236.39.109,40.8326,Washington D.C.,-74.1307,NJ,New Jersey,ipv4,07014
+Vung Tàu,AS,Asia,VN,Vietnam,113.161.131.53,10.35,Hanoi,107.0667,43,Tinh Ba Ria-Vung Tau,ipv4,""
+"",EU,Europe,SI,Slovenia,91.223.115.129,46,Ljubljana,15,"","",ipv4,""
+"",EU,Europe,"","",66.249.93.6,47,"",8,"","",ipv4,""
+"",EU,Europe,"","",66.249.93.49,47,"",8,"","",ipv4,""
+"",EU,Europe,FR,France,51.15.154.150,48.8582,Paris,2.3387,"","",ipv4,""
+"",EU,Europe,NL,Netherlands,185.143.223.145,52.3824,Amsterdam,4.8995,"","",ipv4,""
+Mountain View,NA,North America,US,United States,66.249.69.207,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+"",EU,Europe,RU,Russia,217.69.143.68,55.7386,Moscow,37.6068,"","",ipv4,""
+"",NA,North America,US,United States,96.57.208.218,37.751,Washington D.C.,-97.822,"","",ipv4,""
+Taichung,AS,Asia,TW,Taiwan,211.23.154.138,24.1469,Taipei,120.6839,TXG,Taichung City,ipv4,""
+"",NA,North America,US,United States,168.1.128.38,37.751,Washington D.C.,-97.822,"","",ipv4,""
+Guangzhou,AS,Asia,CN,China,125.93.51.226,23.1167,Beijing,113.25,GD,Guangdong,ipv4,""
+Ashburn,NA,North America,US,United States,52.3.242.78,39.0853,Washington D.C.,-77.6452,VA,Virginia,ipv4,20149
+"",AS,Asia,HK,Hong Kong,164.52.24.140,22.25,City of Victoria,114.1667,"","",ipv4,""
+"",NA,North America,US,United States,65.154.226.100,37.751,Washington D.C.,-97.822,"","",ipv4,""
+Jeddah,AS,Asia,SA,Saudi Arabia,188.49.241.132,21.5169,Riyadh,39.2192,02,Makkah Province,ipv4,""
+Washington,NA,North America,US,United States,38.100.21.62,38.9144,Washington D.C.,-77.0763,DC,District of Columbia,ipv4,20007
+"",AS,Asia,IN,India,150.242.140.197,20,New Delhi,77,"","",ipv4,""
+"",AF,Africa,SC,Seychelles,80.82.77.139,-4.5833,Victoria,55.6667,"","",ipv4,""
+San Jose,NA,North America,US,United States,54.67.59.131,37.3394,Washington D.C.,-121.895,CA,California,ipv4,95141
+Tokyo,AS,Asia,JP,Japan,139.162.119.197,35.685,Tokyo,139.7514,13,Tokyo,ipv4,190-0031
+Redmond,NA,North America,US,United States,157.55.39.53,47.6801,Washington D.C.,-122.1206,WA,Washington,ipv4,98052
+San Francisco,NA,North America,US,United States,107.170.194.60,37.7312,Washington D.C.,-122.3826,CA,California,ipv4,94124
+Ospel,EU,Europe,NL,Netherlands,37.188.75.49,51.303,Amsterdam,5.7894,LI,Limburg,ipv4,6035
+Seattle,NA,North America,US,United States,198.167.140.177,47.4891,Washington D.C.,-122.2908,WA,Washington,ipv4,98168
+Beauharnois,NA,North America,CA,Canada,144.217.86.210,45.3168,Ottawa,-73.8659,QC,Quebec,ipv4,J6N
+"",AS,Asia,CN,China,183.131.83.36,28.1792,Beijing,113.1136,HN,Hunan,ipv4,""
+"",AS,Asia,CN,China,183.131.83.112,28.1792,Beijing,113.1136,HN,Hunan,ipv4,""
+São Paulo,SA,South America,BR,Brazil,18.231.29.215,-23.5733,Brasília,-46.6417,SP,Sao Paulo,ipv4,""
+"",AS,Asia,IN,India,103.231.78.228,20,New Delhi,77,"","",ipv4,""
+Ann Arbor,NA,North America,US,United States,141.212.122.96,42.2776,Washington D.C.,-83.7409,MI,Michigan,ipv4,48109
+Cheyenne,NA,North America,US,United States,64.246.165.10,41.0784,Washington D.C.,-104.7403,WY,Wyoming,ipv4,82007
+San Jose,NA,North America,US,United States,13.56.193.76,37.3394,Washington D.C.,-121.895,CA,California,ipv4,95141
+San Jose,NA,North America,US,United States,199.255.44.250,37.2972,Washington D.C.,-121.8868,CA,California,ipv4,95125
+Naperville,NA,North America,US,United States,135.245.115.103,41.8032,Washington D.C.,-88.1341,IL,Illinois,ipv4,60563
+Beijing,AS,Asia,CN,China,123.125.67.218,39.9289,Beijing,116.3883,BJ,Beijing,ipv4,""
+Arezzo,EU,Europe,IT,Italy,80.211.174.61,43.4995,Rome,11.9109,52,Tuscany,ipv4,52100
+Mountain View,NA,North America,US,United States,66.249.65.92,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+San Jose,NA,North America,US,United States,184.94.240.92,37.425,Washington D.C.,-121.946,CA,California,ipv4,95134
+Ashburn,NA,North America,US,United States,34.201.54.239,39.0853,Washington D.C.,-77.6452,VA,Virginia,ipv4,20149
+Louisville,NA,North America,US,United States,128.177.10.252,39.9558,Washington D.C.,-105.1683,CO,Colorado,ipv4,80027
+"",NA,North America,US,United States,169.54.233.118,37.751,Washington D.C.,-97.822,"","",ipv4,""
+"",NA,North America,US,United States,12.156.67.130,37.751,Washington D.C.,-97.822,"","",ipv4,""
+Edison,NA,North America,US,United States,196.52.43.118,40.5186,Washington D.C.,-74.3499,NJ,New Jersey,ipv4,08837
+San Diego,NA,North America,US,United States,209.126.136.4,32.8073,Washington D.C.,-117.1324,CA,California,ipv4,92123
+Beijing,AS,Asia,CN,China,115.159.151.108,39.9289,Beijing,116.3883,BJ,Beijing,ipv4,""
+"",NA,North America,US,United States,168.1.128.76,37.751,Washington D.C.,-97.822,"","",ipv4,""
+Beauharnois,NA,North America,CA,Canada,144.217.178.164,45.3168,Ottawa,-73.8659,QC,Quebec,ipv4,J6N
+Denver,NA,North America,US,United States,23.237.4.26,39.6384,Washington D.C.,-104.9058,CO,Colorado,ipv4,80237
+"",EU,Europe,FR,France,62.4.15.41,48.8582,Paris,2.3387,"","",ipv4,""
+"",EU,Europe,DE,Germany,144.76.38.73,51.2993,Berlin,9.491,"","",ipv4,""
+"","","","","",10.13.2.1,"","","","","",ipv4,""
+Recife,SA,South America,BR,Brazil,177.105.65.146,-8.05,Brasília,-34.9,PE,Pernambuco,ipv4,""
+Mountain View,NA,North America,US,United States,66.249.65.89,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+Singapore,AS,Asia,SG,Singapore,167.99.70.82,1.2931,Singapore,103.8558,01,Central Singapore Community Development Council,ipv4,""
+Konosu,AS,Asia,JP,Japan,121.105.123.4,36.05,Tokyo,139.5167,11,Saitama,ipv4,365-0028
+Redmond,NA,North America,US,United States,157.55.39.50,47.6801,Washington D.C.,-122.1206,WA,Washington,ipv4,98052
+Ann Arbor,NA,North America,US,United States,141.212.122.32,42.2776,Washington D.C.,-83.7409,MI,Michigan,ipv4,48109
+Mountain View,NA,North America,US,United States,66.249.88.27,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+Mountain View,NA,North America,US,United States,66.249.88.29,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+Mountain View,NA,North America,US,United States,66.249.88.25,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+Mountain View,NA,North America,US,United States,66.249.83.79,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+Mountain View,NA,North America,US,United States,66.249.83.78,37.4192,Washington D.C.,-122.0574,CA,California,ipv4,94043
+Ashburn,NA,North America,US,United States,52.91.127.137,39.0853,Washington D.C.,-77.6452,VA,Virginia,ipv4,20149
+Jakarta,AS,Asia,ID,Indonesia,182.253.42.42,-6.1744,Jakarta,106.8294,JK,Jakarta,ipv4,""
+"",NA,North America,US,United States,104.183.6.50,37.751,Washington D.C.,-97.822,"","",ipv4,""
+Nanjing,AS,Asia,CN,China,180.97.106.39,32.0617,Beijing,118.7778,JS,Jiangsu,ipv4,""
+Arezzo,EU,Europe,IT,Italy,80.211.173.62,43.4995,Rome,11.9109,52,Tuscany,ipv4,52100
+"",EU,Europe,FR,France,62.210.152.248,48.8582,Paris,2.3387,"","",ipv4,""
+Aachen,EU,Europe,DE,Germany,137.226.113.33,50.7787,Berlin,6.1085,NW,North Rhine-Westphalia,ipv4,52068
+Tainan City,AS,Asia,TW,Taiwan,140.116.245.162,22.9908,Taipei,120.2133,TNN,Tainan,ipv4,""
+"",NA,North America,US,United States,35.231.6.14,38.6582,Washington D.C.,-77.2497,VA,Virginia,ipv4,""
+Seattle,NA,North America,US,United States,216.244.66.229,47.4891,Washington D.C.,-122.2908,WA,Washington,ipv4,98168
+"",NA,North America,US,United States,169.54.233.116,37.751,Washington D.C.,-97.822,"","",ipv4,""
