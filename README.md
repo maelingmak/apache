@@ -85,7 +85,7 @@ has the most hits by those attempting to gain entry</p>
     <li>Hitesh Bhanushali: Data Magician</li>
     <li>Pierre Vernet: Front End Amazement Creator</li>
     <li>Deb Biswas: TBD</li>
-    <li>Harry Yu: TBD</li>
+    <li>Harry Yu: Emergency Preparedness Coordinator</li>
 </ul>
 <h4>Everybody:</h4>
 <ul><li>Flask routes</li>
