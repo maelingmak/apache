@@ -97,4 +97,14 @@ has the most hits by those attempting to gain entry</p>
 <ul><li>Deployment</li>
 </ul>
 <hr>
-[1] Visualizations subject to change depending upon results of data exploration.
+[1] Visualizations subject to change depending upon results of data exploration.<br>
+<h2>Feedback from instructor</h2>
+<h3>To be discussed by group 06/12/2018</h3>
+<p>So, regarding the project outline - I’d like to see more rigorous definition of what constitutes an attack and legitimate traffic. e.g., a *404* may be legitimate while a request to an existing page may be a spam bot.
+<br>
+How would you correlate observations into families of similar attacks?
+<br>
+I would also rethink your visualization of legltimate traffic. Real requests + spiders will quickly overwhelm a basic pie chart.
+<br>
+Think of at least one way to answer a deeper question. E.g. “how often do organized crime syndicates attack internet-enabled home devices?” For that, you could mash-up your server logs with open-source threat intelligence data. There are troves of it. Here’s just one repository: http://www.secrepo.com/
+</p>
