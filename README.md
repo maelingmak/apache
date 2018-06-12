@@ -98,6 +98,7 @@ has the most hits by those attempting to gain entry</p>
 </ul>
 <hr>
 [1] Visualizations subject to change depending upon results of data exploration.<br>
+<hr>
 <h2>Feedback from instructor</h2>
 <h3>To be discussed by group 06/12/2018</h3>
 <p>So, regarding the project outline - I’d like to see more rigorous definition of what constitutes an attack and legitimate traffic. e.g., a *404* may be legitimate while a request to an existing page may be a spam bot.
