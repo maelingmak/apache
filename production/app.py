@@ -43,3 +43,5 @@ def ip_list():
 #def geolocation():
 #    """Serving lat and lon"""
 #    
+if __name__ == '__main__':
+    app.run(debug=True)
