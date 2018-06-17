@@ -18,7 +18,7 @@ from flask import Flask, jsonify, render_template, request, redirect
 #############
 from flask_sqlalchemy import SQLAlchemy
 
-engine = create_engine("sqlite:///apache.sqlite")
+engine = create_engine("sqlite:///../db/apache.sqlite")
 base= automap_base()
 base.prepare(engine, reflect=True)
 inspector = inspect(engine)
@@ -26,7 +26,7 @@ log_table = base.classes.access_response
 session = Session(engine)
 
 
-app = Flask(__name__, static_url_path="/static")
+app = Flask(__name__)
 
 @app.route("/")
 def home():
@@ -43,6 +43,5 @@ def ip_list():
 #def geolocation():
 #    """Serving lat and lon"""
 #    
-
 if __name__ == '__main__':
-   app.run(debug=True)
+    app.run(debug=True)

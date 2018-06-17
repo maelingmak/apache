@@ -1,0 +1,63 @@
+Background:
+What is a web server?
+A Web server is a program that uses HTTP (Hypertext Transfer Protocol) to 
+serve the files that form Web pages to users, in response to their requests,
+which are forwarded by their computers' HTTP clients.
+
+What is Apache?
+Originating in 1995, The Apache HTTP Server, is a free and open-source 
+cross-platform web server, Approximately half of all web servers on the
+internet today are running Apache. The origins of the internet as we know
+it are because of the existence of the Apache HTTP Server.
+
+Popular sites using Apache
+Baidu.com
+Vk.com
+Ok.ru
+Hao123.com
+Wikia.com
+Apple.com
+Paypal.com
+Tribunnews.com
+Adobe.com
+Nicovideo.jp
+
+What is a SQL Injection?
+SQL injection is a type of security exploit in which the attacker adds SQL
+code to a Web form input box to gain access to resources or make changes to
+data.
+
+Analysis:
+
+Using 51 access logs from a small server that had all databases and PHP
+removed in order to avoid SQL injection and other similar security 
+vunerabilities, we analyzed traffic from March 2015-December 2015 and 
+February 2018-April 2018. This server had intentionally been left offline 
+since the end of 2015 in order to "fall off the radar" of many bots and 
+potential attacks.
+
+We attempted to find the geolocations of each website visit, then analyze
+the traffic for potential threats by comparing the IPs to those on known
+malware lists and by the methods used, URL requested, and user agents making
+the request.
+
+Results:
+
+Though several years had passed between the two sets of logs, the primary
+types of entry methods were the same.
+
+(Will take the mean of each for each date range to normalize, then quote
+some stats and do visualizations.)
+
+
+Visualization:
+
+
+Team:
+(I always alphabetize so that no one has priority)
+
+Erik, Harry, Hitesh, Mae Ling, Pierre
+
+OR
+
+Bhanushali, Hitesh; Mak, Mae Ling; Ramstad, Erik; Vernet, Pierre; Yu, Harry
