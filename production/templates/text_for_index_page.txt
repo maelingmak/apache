@@ -31,9 +31,10 @@ Analysis:
 
 Using 51 access logs from a small server that had all databases and PHP
 removed in order to avoid SQL injection and other similar security 
-vunerabilities, we analyzed traffic from February to April 2018. This server
-had intentionally been left offline since the end of 2015 in order to "fall
-off the radar" of many bots and potential attacks.
+vunerabilities, we analyzed traffic from March 2015-December 2015 and 
+February 2018-April 2018. This server had intentionally been left offline 
+since the end of 2015 in order to "fall off the radar" of many bots and 
+potential attacks.
 
 We attempted to find the geolocations of each website visit, then analyze
 the traffic for potential threats by comparing the IPs to those on known
@@ -42,11 +43,12 @@ the request.
 
 Results:
 
-We'll figure this out when we have the visualizations. I am planning to do
-the data I found in class today by the URL requested on tomorrow. Mostly,
-it's what I expected: Attempted SQL injection. There are some surprises as
-to how many people/bots tried to use curl and urllib. I will have to figure
-out how to explain that tomorrow.
+Though several years had passed between the two sets of logs, the primary
+types of entry methods were the same.
+
+(Will take the mean of each for each date range to normalize, then quote
+some stats and do visualizations.)
+
 
 Visualization:
 
