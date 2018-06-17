@@ -9,7 +9,7 @@ import csv
 app = Flask(__name__)
 
 # Connect to sqlite database
-engine = create_engine("sqlite:///../db/apache2.sqlite")
+engine = create_engine("sqlite:///../db/apache.sqlite")
 Base = automap_base()
 Base.prepare(engine, reflect=True)
 session = Session(engine)

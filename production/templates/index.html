@@ -1,38 +1,115 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Apache Logs!!!</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-      <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project 2</title>
+        
+        <!-- font -->
+        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <!-- css -->
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+        <!-- <link rel="stylesheet" href="production/static/css/style.css"> -->
+        <link rel="stylesheet" href="/static/css/style.css">
+        
+                                                          
+    </head>
     
-</head>
-
-<body>
-    <div class = "container">
-        <div class = "jumbotron">
-            <h1> Apache Logs!!!</h1>
-            <p> GIVE US A GLOBE</p>
-        </div>
-    </div>   
-<hr>
-    <div class = "col-md-12"> 
-        <div class = "col-md-3">
-
-        </div>
-        <div class = "col-md-5" id = "pie"></div>
-    </div>
+    <body>
+        <!-- header -->
+        <header class="container-fluid header">
+            <div class="container">
+                <a href="#" class="logo"> Group Project 2</a>
+                <nav class="menu">
+                    <a href="#about"> About </a>
+                    <a href="#visualization"> Visualization </a>
+                    <a href="#data"> Data</a>
+                    <a href="#team"> The Team </a>
+                </nav>
+            </div>
+        
+        </header>
     
+        <!-- banner -->
+        <section class="container-fluid banner">
+            <div class="ban">
+                <img src="static/img/ban.jpg" alt="" site banner/>
+            </div>
+            <div class="inner-banner">
+                <h1> Welcome </h1>
+            </div>
+            
+        </section>
     
-
- <script src="{{ url_for('static', filename='js/app.js') }}"></script>
-
+        <!-- about -->
+        <section class="container-fluid about">
+            <div class="container">
+                <h2 id="about"> About the Project </h2>
+                <hr class="separator">
+                <div class="row">
+                    
+                    <article class="col-md-4 col-lg-4" col-xs-12 col-sm-12>
+                        <h2> Background </h2>
+                        <p>
+                            qwe rtyuiopasdfghjkl qwert yuiopasd fghjkl qwertyuiopasdfghjkl qwertyuiopa sdfghjkl qwer tyuiopasdfghjkl qwerty uiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjklqwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiop asdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl
+                        </p>
+                        </p>
+                    </article>
+                    
+                    <article class="col-md-4 col-lg-4" col-xs-12 col-sm-12>
+                        <h2> The Analyse </h2>
+                        <p>
+                            qwe rtyuiopasdfghjkl qwert yuiopasd fghjkl qwertyuiopasdfghjkl qwertyuiopa sdfghjkl qwer tyuiopasdfghjkl qwerty uiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjklqwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiop asdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl
+                        </p>
+                    </article>
+                    
+                    <article class="col-md-4 col-lg-4" col-xs-12 col-sm-12>
+                        <h2> The Results </h2>
+                        <p>
+                            qwe rtyuiopasdfghjkl qwert yuiopasd fghjkl qwertyuiopasdfghjkl qwertyuiopa sdfghjkl qwer tyuiopasdfghjkl qwerty uiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjklqwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiop asdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl
+                        </p>
+                    </article>
+                </div>
+            
+            </div>
+            
+        
+        </section>
+        
+        <!-- visualization -->
+        <section class="container-fluid visualization">
+            <div class="container">
+                <h2 id="visualization"> Visualization </h2>
+                <hr class="separator">
+                <article class="col-md-3 col-lg3 col-xs-12 col-sm-12 item-folio">
+                    
     
+                </article>
+                
+                <article class="col-md-3 col-lg3 col-xs-12 col-sm-12 item-folio">
+                    
+                
+                </article>
+                
+                <article class="col-md-3 col-lg3 col-xs-12 col-sm-12 item-folio">
+                    
+                
+                </article>
+                
+                <article class="col-md-3 col-lg3 col-xs-12 col-sm-12 item-folio">
+                    
+                
+                </article>
+            </div>
+         <script src="/static/js/app3.js"></script>
+        </section>
+
+        
+        <footer class="container-fluid footer">
+            <h2 id="team"> The Team </h2>
+            <hr class="separator">
+            <p> Pierre, Harry, Eric, Mae Ling, Hitesh </p>
+        
+        </footer>
     
-
-</body>
-
+    </body>
 </html>
