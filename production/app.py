@@ -16,7 +16,7 @@ session = Session(engine)
 
 # Storing tables
 Data = Base.classes.access_response
-
+Scrape = Base.classes.news_countries
 # print(Base.classes)
 
 
@@ -25,6 +25,8 @@ Data = Base.classes.access_response
 @app.route("/")
 def home():
     return render_template("index.html")
+
+
 
 # Returns a list of sample names in list format
 @app.route("/ip")
@@ -42,7 +44,8 @@ def ip_list():
 
     return jsonify(ip)
 
-# Returns a list of OTU descriptions
+
+
 @app.route("/method")
 def method():
 
@@ -57,6 +60,24 @@ def method():
         method.append(result.Method)
 
     return jsonify(method)
+
+
+
+@app.route("/news_countries")
+### Returns list of top countries and hits in news scraping by country
+def news_countries():
+    countries = session.query(Scrape.country).all()
+    results = []
+    results2 =[]
+    for each in countries:
+        results.append(each[0])
+    count = session.query(Scrape.count).all()
+    for each in count:
+        results2.append(each[0])
+    return jsonify(results,results2)
+
+
+
 #@app.route("/geolocation")
 #def geolocation():
 #    """Serving lat and lon"""
