@@ -46,12 +46,43 @@ Results:
 Though several years had passed between the two sets of logs, the primary
 types of entry methods were the same.
 
-(Will take the mean of each for each date range to normalize, then quote
-some stats and do visualizations.)
+Also, there is a script that is run all over the world using urllib that
+is looking for a particular photo of a cat. This photo is still online, but
+not in the same location as 10 years ago.
 
 
 Visualization:
 
+Mae Ling: Bar chart of hits by suspicious key words 2015 by percentage of 
+total hits.
+
+Mae Ling: Bar chart of hits by suspicious key words 2018 by percentage of
+total hits.
+
+One can see the difference between traffic on these two charts after having
+been offline for 3 years. While there is more data for 2015 than 2018, the
+type of attempted entry had very little change. In 2015 one can see
+that the blog, "Ramble", was still a target, even though it had been
+removed sometime around 2010.
+
+Though the percentage of hits dramatically decreases after being offline
+for so long, the attempts remain the same, illustrating that SQL injection
+or an attempt to hijack a poorly secured login remains a popular method
+of entry to a server. 
+
+Mae Ling: Combined 2018 & 2018 suspicious key words.
+Mae Ling: World map of key words by type of login attempted.
+Mae Ling" Cat photo that everyone wants.
+
+There is overlap between the keywords "admin" and "setup". As you can see
+from the 2018 bar chart, the gap is when "admin" and "login" overlap.
+
+These words were chosen primarily to look for attempted SQL injection or
+other type of login vunerabilities. We also looked at the user agents
+that were scripts instead of browsers (urllib and curl).
+
+There are hits from every continent except Antartica because they have
+better things to do.
 
 Team:
 (I always alphabetize so that no one has priority)
