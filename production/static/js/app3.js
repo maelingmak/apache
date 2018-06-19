@@ -34,13 +34,13 @@ var layout = {
        size: 20
      },
      showarrow: false,
-     text: 'Get',
+     text: '',
      x: 0.17,
      y: 0.5
    },
     {
       showarrow: false,
-     text: 'yyy',
+     text: '',
      x: 0.17,
      y: 0.5
    },
@@ -49,17 +49,16 @@ var layout = {
        size: 20
      },
      showarrow: false,
-     text: 'mmm',
+     text: '',
      x: 0.82,
      y: 0.5
    }
- ],
- height: 600,
- width: 600
+ ]
+ 
 };
 
-
-       Plotly.newPlot('erik_donut', data2, layout);
+var DONUT = document.getElementById("erik_donut")
+       Plotly.newPlot(DONUT, data2, layout);
 //    });
 }
 donut();
