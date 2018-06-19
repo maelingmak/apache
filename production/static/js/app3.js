@@ -5,18 +5,18 @@ function donut() {
 //        console.log(data);
   
 var data2 = [{
- values: [16, 15, 6, 5, 42],
- labels: ['US', 'China', 'Russian Federation','India', 'Rest of World' ],
+ values: [51, 28608, 1715, 51, 233, 21,],
+ labels: ['CONNECT', 'GET','HEAD', 'OPTIONS', 'POST', 'PROPFIND' ],
  domain: {
    x: [0, .48]
  },
- name: "Top ten IP's",
+ name: 'Methods',
  hoverinfo: 'label+percent+name',
  hole: .4,
  type: 'pie'
 },{
- values: [27, 25, 8, 3, 25],
- labels: ['US', 'China', 'Russian Federation', 'India', 'Rest of World' ],
+ values: [32, 31, 27, 26, 22, 18, 18, 17, 16, 16],
+ labels: ['104.217.216.170', '108.64.229.11', '104.217.216.170', '107.183.220.254', '104.217.216.170', '66.249.84.13', '66.249.84.15', '04.217.216.170', '23.239.208.54', '148.163.2.234' ],
  text: 'IP',
  textposition: 'inside',
  domain: {x: [.52, 1]},
