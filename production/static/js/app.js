@@ -11,13 +11,26 @@ function news_countries() {
 		var data = {
 			x: response[0],
 			y: response[1],
+			marker: {
+				color: ["red", "light blue", "green", "green", "green", "green", "green", "green", "green", "green"]
+			},
+			opacity: 0.7,
+			line: {
+		     	color: 'rbg(8,48,107)',
+		    	width: 1.5
+		    },
+		    text: response[0], 
 			type: 'bar',
+
 		} 
 		var layout = {
 			xaxis: {
 				tickangle: -45
 			},
-			title: "Mentions of Countries in Cyber Attack News",
+			yaxis: {
+				title: "Number of Mentions"
+			},
+			title: "Countries in Cyber Attack News",
 		}
 		Plotly.newPlot('news_countries', [data], layout)
 
@@ -61,13 +74,13 @@ var layout = {
        size: 20
      },
      showarrow: false,
-     text: 'Get',
+     text: '',
      x: 0.17,
      y: 0.5
    },
     {
       showarrow: false,
-     text: 'yyy',
+     text: '',
      x: 0.17,
      y: 0.5
    },
@@ -76,20 +89,18 @@ var layout = {
        size: 20
      },
      showarrow: false,
-     text: 'mmm',
+     text: '',
      x: 0.82,
      y: 0.5
    }
- ],
- height: 600,
- width: 1200
+ ]
 };
 
-
-       Plotly.newPlot('erik_donut', data2, layout);
+var DONUT = document.getElementById("erik_donut")
+       Plotly.newPlot(DONUT, data2, layout);
 //    });
 }
 
 donut();
 
-news_countries()
+news_countries();

@@ -98,21 +98,31 @@ a, a:hover{
     
 }
 /* visualization */
+
 .visualization{
-    background-color: #eeeeee;
-    height: 800px;
+    background-color: #ffffff;
+    align-content: center;
+/*    height: 2000px;*/
 }
 
 #visualization {
     text-align: center;
+
 }
+
 
 .visualization item-folio {
-    height: 280px;
+/*    height: 280px;*/
     background-color: #3498DB;
+    position: absolute
+
 }
 
-/* footer */
+#map {
+    height: 
+    
+}
+ /* footer */
 .footer {
     background-color: #2C3E50;
     color:#ffffff;
