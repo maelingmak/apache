@@ -35,7 +35,7 @@
                 <img src="static/img/ban.jpg" alt="" site banner/>
             </div>
             <div class="inner-banner">
-                <h1> Welcome </h1>
+                <h1> Analysis of Apache logs from a small server <br>March-December 2015 & February - April 2018 </h1>
             </div>
             
         </section>
@@ -50,21 +50,77 @@
                     <article class="col-md-4 col-lg-4" col-xs-12 col-sm-12>
                         <h2> Background </h2>
                         <p>
-                            qwe rtyuiopasdfghjkl qwert yuiopasd fghjkl qwertyuiopasdfghjkl qwertyuiopa sdfghjkl qwer tyuiopasdfghjkl qwerty uiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjklqwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiop asdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl
+                            What is a web server?
+                            A Web server is a program that uses HTTP (Hypertext Transfer Protocol) to 
+                            serve the files that form Web pages to users, in response to their requests,
+                            which are forwarded by their computers' HTTP clients.
                         </p>
                     </article>
                     
                     <article class="col-md-4 col-lg-4" col-xs-12 col-sm-12>
-                        <h2> The Analyse </h2>
+                        <h2> What is Apache? </h2>
                         <p>
-                            qwe rtyuiopasdfghjkl qwert yuiopasd fghjkl qwertyuiopasdfghjkl qwertyuiopa sdfghjkl qwer tyuiopasdfghjkl qwerty uiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjklqwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiop asdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl
+                            Originating in 1995, The Apache HTTP Server, is a free and open-source 
+                            cross-platform web server, Approximately half of all web servers on the
+                            internet today are running Apache. The origins of the internet as we know
+                            it are because of the existence of the Apache HTTP Server.
                         </p>
                     </article>
                     
                     <article class="col-md-4 col-lg-4" col-xs-12 col-sm-12>
-                        <h2> The Results </h2>
+                        <h2> Popular sites using Apache </h2>
                         <p>
-                            qwe rtyuiopasdfghjkl qwert yuiopasd fghjkl qwertyuiopasdfghjkl qwertyuiopa sdfghjkl qwer tyuiopasdfghjkl qwerty uiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjklqwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiop asdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl qwertyuiopasdfghjkl
+                            <ul>
+                            <li>Baidu.com</li>
+                            <li>Vk.com</li>
+                            <li>Ok.ru</li>
+                            <li>Hao123.com</li>
+                            <li>Wikia.com</li>
+                            <li>Apple.com</li>
+                            <li>Paypal.com</li>
+                            <li>Tribunnews.com</li>
+                            <li>Adobe.com</li>
+                            <li>Nicovideo.jp</li>
+                            </ul>
+                        </p>
+                    </article>
+                
+                <article class="col-md-4 col-lg-4" col-xs-12 col-sm-12>
+                        <h2> What is a SQL Injection? </h2>
+                        <p>
+                            SQL injection is a type of security exploit in which the attacker adds SQL
+                            code to a Web form input box to gain access to resources or make changes to
+                            data.
+
+                        </p>
+                    </article>
+                    
+                    <article class="col-md-4 col-lg-4" col-xs-12 col-sm-12>
+                        <h2> Analysis: </h2>
+                        <p>
+                            Using 51 access logs from a small server that had all databases and PHP
+                            removed in order to avoid SQL injection and other similar security 
+                            vunerabilities, we analyzed traffic from March 2015-December 2015 and 
+                            February 2018-April 2018. <br>This server had intentionally been left offline 
+                            since the end of 2015 in order to "fall off the radar" of many bots and 
+                            potential attacks.
+
+                            <br>We attempted to find the geolocations of each website visit, then analyze
+                            the traffic for potential threats by comparing the IPs to those on known
+                            malware lists and by the methods used, URL requested, and user agents making
+                            the request.
+                        </p>
+                    </article>
+                    
+                    <article class="col-md-4 col-lg-4" col-xs-12 col-sm-12>
+                        <h2> Results </h2>
+                        <p>
+                            Though several years had passed between the two sets of logs, the primary
+                            types of entry methods were the same.
+
+                            <br>Also, there is a script that is run all over the world using urllib that
+                            is looking for a particular photo of a cat. This photo is still online, but
+                            not in the same location as 10 years ago.
                         </p>
                     </article>
                 </div>
